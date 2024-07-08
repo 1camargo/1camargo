@@ -44,8 +44,8 @@
 
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=1camargo&rank_icon=github&theme=dark"/>
+ <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=1camargo&rank_icon=github&theme=holi"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
- <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1camargo&layout=compact&langs_count=7&theme=dark"/>
+ <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1camargo&layout=compact&langs_count=7&theme=holi"/>
 </div><br>
