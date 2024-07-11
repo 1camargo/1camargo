@@ -1,10 +1,13 @@
-# Olá! Eu sou o Gabriel 👋
+<h1>Olá! Eu sou o Gabriel 👋</h1>
 
-- 🔭 Atualmente estou buscando uma vaga/estágio de desenvolvedor.
-- 🌱 Atualmente estou estudando sobre Java, Spring Boot, MySQL, JavaScript, TypeScript, HTML5, CSS3, React e Node.js.
-- 💬 Pergunte-me sobre qualquer coisa que envolva tecnologia.
-- 😄 Pronomes: Ele/dele.
-- ⚡ Curiosidade: Já pedalei 130km em um dia.
+- 🔭 Atualmente estou buscando uma vaga/estágio de desenvolvedor.<br>
+- 🌱 Atualmente estou estudando sobre Java, Spring Boot, MySQL, JavaScript, TypeScript, HTML5, CSS3, React e Node.js.<br>
+- 💬 Pergunte-me sobre qualquer coisa que envolva tecnologia.<br>
+- 😄 Pronomes: Ele/dele.<br>
+- ⚡ Curiosidade: Já pedalei 130km em um dia.<br><br>
+<h2>
+"Conheça todas as teorias, domine todas as técnicas, mas ao tocar uma alma humana, seja apenas outra alma humana."<br>
+‒ Carl Jung </h2><br>
 
 <!--
 - 🔭 I’m currently working on ...
