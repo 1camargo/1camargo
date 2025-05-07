@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou o Gabriel 👋</h1>
 
 - 🔭 Atualmente estou buscando uma vaga/estágio de desenvolvedor.<br>
-- 🌱 Atualmente estou estudando sobre Java, Spring Boot, MySQL, JavaScript, TypeScript, HTML5, CSS3, React e Node.js.<br>
+- 🌱 Atualmente estou estudando sobre SQL, JavaScript, HTML5, CSS3, Node.js, API's.<br>
 - 💬 Pergunte-me sobre qualquer coisa que envolva tecnologia.<br>
 - 😄 Pronomes: Ele/dele.<br>
 - ⚡ Curiosidade: Já pedalei 130km em um dia.<br><br>
