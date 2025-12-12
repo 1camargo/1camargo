@@ -28,7 +28,7 @@ technology, impact, and great human experiences.
 </p>
 
 <h1 align="center">⚙ Tools and Favorite Technologies 🌐</h1>
-<p align="center">Some of the technologies in which I have extensive knowledge and experience, along with frameworks and other types of tools I'm familiar with.</p>
+<p align="left">Some of the technologies in which I have extensive knowledge and experience, along with frameworks and other types of tools I'm familiar with.</p>
 
 <p align="center">
 <a href="https://skillicons.dev">
