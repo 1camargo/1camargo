@@ -27,13 +27,13 @@ technology, impact, and great human experiences.
 </a>
 </p>
 
-<h1 align=left>⚙ Tools and Favorite Technologies 🌐</h1>
-<p>Some of the technologies in which I have extensive knowledge and experience, along with frameworks and other types of tools I'm familiar with.</p>
+<h1 align="center">⚙ Tools and Favorite Technologies 🌐</h1>
+<p align="center">Some of the technologies in which I have extensive knowledge and experience, along with frameworks and other types of tools I'm familiar with.</p>
 
 <p align="center">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,spring,vscode,idea,java,js,html,css,ts,react,mysql,nodejs,postman,linux,ubuntu" />
-  </a>
+</a>
 </p>
 
 <h1 align=left>📊 GitHub Stats</h1>
